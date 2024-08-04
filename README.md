@@ -10,9 +10,11 @@ HTML will be used to structure the web pages, creating a logical and organized l
 
 By the conclusion of this project, we aim to deliver a front-end prototype that closely mirrors the Amazon website, showcasing effective use of HTML and CSS to build a professional and engaging e-commerce interface.
 
+
 ![Screenshot 2024-08-04 092234](https://github.com/user-attachments/assets/2651b23c-f95a-4927-8119-45a80ae24d97)
 ![Screenshot 2024-08-04 092252](https://github.com/user-attachments/assets/b5d14dbc-9b7f-4b76-bc1f-3dee881dcc7a)
 
 ![Screenshot 2024-08-04 092307](https://github.com/user-attachments/assets/8a3c4cda-4914-4a80-b4d1-27c4ae786344)
 
+Conclusion:
 By the conclusion of this project, we aim to deliver a front-end prototype that closely mirrors the Amazon website, showcasing the effective use of HTML and CSS to build a professional and engaging e-commerce interface with dynamic button interactions and hover functionalities.
