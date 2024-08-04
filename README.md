@@ -1,4 +1,4 @@
-Amazon.com
+Amazon.com(https://nehapaul386.github.io/Amazon.com/)
 
 Here's an Discription for a front-end Amazon clone project using HTML and CSS:
 
